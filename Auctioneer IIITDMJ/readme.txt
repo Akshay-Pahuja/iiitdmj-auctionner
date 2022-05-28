@@ -8,9 +8,7 @@ To access admin, manually type '/admin' after auctioneer_IIITDMJ in the url box 
 
 
 project done by-
-Prakhar Raghuvanshi 20bcs160
-Atul Raj 20bcs046
-Bussari JaswanthJee 20bcs061
+Prakhar Raghuvanshi 
 
 
 
