@@ -1,0 +1,6 @@
+DataTables-- Bootstrap-datatables library
+font-awesome--  FOnt-Awesome library
+uploads-- image uploads by users and admins
+vendor-- Bootstrap offline libraries for frontend
+
+!!!!!do not delete or modify or rename !!!!!
